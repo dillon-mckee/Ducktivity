@@ -26,7 +26,7 @@ Watch: watches directory and automatically rebuilds
 npm run watch
 ```
 
-Serve: starts node server on port 3000
+Serve: starts node server on port 8080
 
 ``` bash
 npm run serve
